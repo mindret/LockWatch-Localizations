@@ -1,0 +1,31 @@
+"SIMPLE" = "シンプル";
+"COLOR" = "カラー";
+"WEATHER" = "天気";
+"CHRONO" = "クロノグラフ";
+"X-LARGE" = "エックス-ラージ";
+
+"CUSTOMIZE" = "カスタマイズ";
+
+"LOCATION_TITLE" = "位置情報サービスが必要です";
+"LOCATION_DESCRIPTION" = " \"天気\" を更新するために位置情報サービスを使用します。位置情報サービスがオフになっているので『 設定 > プライバシー > 位置情報サービス 』から位置情報サービスをオンにしてください。あなたの位置情報は絶対にほかのところへは漏らしません。";
+
+"SETTINGS" = "設定";
+"SETTINGS_GENERAL" = "一般";
+"SETTINGS_WATCHFACES" = "ウォッチフェイス";
+"SETTINGS_PRIVACY" = "プライバシー";
+"SETTINGS_GRAPHICS" = "グラフィック";
+
+"SETTINGS_GENERAL_FOOTER" = "バージョン 1.0 (151124-0938)";
+
+"SETTINGS_WATCHFACES_AVAILABLE" = "利用可能なウォッチフェイス";
+"SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "ウォッチフェイスを無効にするとパフォーマンスを向上させることができます";
+
+"SETTINGS_PRIVACY_LOCATION" = "位置情報サービス";
+"SETTINGS_PRIVACY_WOEID" = "WHOEID";
+"SETTINGS_PRIVACY_WOEID_ALERT_TITLE" = "WOEIDを設定";
+"SETTINGS_PRIVACY_WOEID_ALERT_DESCRIPTION" = "  \"天気\" をウォッチフェイス上で表示させるためにWOEID (Where On Earth ID)を設定してください。";
+"SETTINGS_PRIVACY_WOEID_ALERT_OK" = "決定";
+"SETTINGS_PRIVACY_WOEID_ALERT_CANCEL" = "キャンセル";
+
+"SETTINGS_GRAPHICS_AA" = "アンチエイリアス";
+"SETTINGS_GRAPHICS_AA_FOOTER" = "アンチエイリアスを無効にすると品質は落ちますが性能は向上します。";
