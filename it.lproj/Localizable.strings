@@ -32,13 +32,11 @@
 
 
 /* Settings - Watch Faces */
-
 "SETTINGS_WATCHFACES_AVAILABLE" = "Quadranti Disponibili";
 "SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Disabilitare i quadranti può migliorare le prestazioni.";
 
 
 /* Settings - Privacy */
-
 "LOCATION_TITLE" = "Servizi di Localizzazione richiesti";
 "LOCATION_DESCRIPTION" = "I Servizi di Localizzazione sono richiesti per aggiornare il quadrante \"Meteo\". Se hai disabilitato i Servizi di Localizzazione, vai su Impostazioni > Privacy > Localizzazione e abilitali. Non ti preoccupare, la tua localizzazione non verrà inviata a nessuno.";
 
@@ -51,6 +49,5 @@
 
 
 /* Settings - Graphics */
-
 "SETTINGS_GRAPHICS_AA" = "Anti-Aliasing";
 "SETTINGS_GRAPHICS_AA_FOOTER" = "Disabilitare l'Anti-Aliasing migliora le prestazioni abbassando la qualità video.";

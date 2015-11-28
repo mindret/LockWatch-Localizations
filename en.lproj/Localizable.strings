@@ -31,13 +31,11 @@
 
 
 /* Settings - Watch Faces */
-
 "SETTINGS_WATCHFACES_AVAILABLE" = "Available Watch Faces";
 "SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Disabling watch faces can improve performance.";
 
 
 /* Settings - Privacy */
-
 "LOCATION_TITLE" = "Location Services required";
 "LOCATION_DESCRIPTION" = "The Location Services are required to update the \"Weather\" watch face. If you have disabled Location Services, please go to Settings > Privacy > Location Services and enable them. Don't worry, your location won't be sent to anybody.";
 
@@ -50,6 +48,5 @@
 
 
 /* Settings - Graphics */
-
 "SETTINGS_GRAPHICS_AA" = "Anti-Aliasing";
 "SETTINGS_GRAPHICS_AA_FOOTER" = "Disabling Anti-Aliasing improves performance at the expense of display quality.";

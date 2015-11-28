@@ -31,13 +31,11 @@
 
 
 /* Settings - Watch Faces */
-
 "SETTINGS_WATCHFACES_AVAILABLE" = "Verfügbare Ziffernblätter";
 "SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Das Deaktivieren von Ziffernblättern kann zu einer Verbesserung der Leistung führen.";
 
 
 /* Settings - Privacy */
-
 "LOCATION_TITLE" = "Ortungsdienste benötigt";
 "LOCATION_DESCRIPTION" = "Die Ortungsdienste werden benötigt, um das Ziffernblatt \"Wetter\" zu aktualisieren. Wenn Sie die Ortungsdienste deaktiviert haben, öffnen Sie Einstellungen > Datenschutz > Ortungsdienste und aktivieren Sie den Schalter. Keine Sorge, die Daten werden an niemanden übermittelt.";
 
@@ -50,6 +48,5 @@
 
 
 /* Settings - Graphics */
-
 "SETTINGS_GRAPHICS_AA" = "Kantenglättung";
 "SETTINGS_GRAPHICS_AA_FOOTER" = "Das Deaktivieren der Kantenglättung führt zu einer Steigerung der Leistung, resultiert allerdings auch in einer schlechteren Darstellung der Ziffernblätter.";
